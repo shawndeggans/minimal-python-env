@@ -1,6 +1,8 @@
 
 # Project Template for Codespaces
 
+This is a basic Python template for building Python projects, specifically microservices. The readme is opinionated, but you don't necessarily need to follow its guidance. 
+
 ## 1. Creating a Virtual Environment
 
 To create a virtual environment using a `.venv` folder:
